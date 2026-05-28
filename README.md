@@ -97,4 +97,3 @@ Threshold tuning 이후 최종 1위 모델은 기존 9위였던 **Scaler=None, C
 
 최종적으로 **Scaler=None, C=10.0, class_weight=None, threshold=0.488** 조합이 가장 높은 weighted F1-score를 기록하였다. 따라서 본 실험에서는 하이퍼파라미터 조정보다 threshold 조정이 성능 개선에 더 직접적인 영향을 준 것으로 볼 수 있다.
 
-# top 5에 대한 confusion_matrix
